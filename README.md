@@ -1,5 +1,7 @@
 AIWebChatBot is an intelligent web-based chatbot built with Python and Flask, designed to provide simple seamless and interactive conversations. Leveraging the power of the Groq API and advanced AI models, this chatbot offers a robust solution for integrating conversational AI into your web applications.
 🚀 Features
+pre-usage: put every file inside 1 folder.
+Usage: python/python3 sentiai.py 
 
     Database SQLITE: Used for storing past conversation and recalling them
     Code Reflection: The AI can reflect on memories in the past based on how it is limited from the AI API Call on the context window, with recall prompt, it also understands its own Code structure.
